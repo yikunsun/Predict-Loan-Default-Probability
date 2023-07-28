@@ -1,1 +1,2 @@
-# Predict-Loan-Default-Probability
+# Predict Loan Default Probability
+**For this project, I used Lending Club data to build probability of default (PD) models to predict if a borrower is likely to default. Input data has more than 100 features and 2 million records. The final logistic regression model has only 9 features and can achieve an AUC of almost 0.75. Please refer to the notebook for exploratory data analysis, feature engineering, and modeling process.**
